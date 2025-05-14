@@ -5,6 +5,6 @@
 
 **Hi everyone, I´m new to Github. Just a young student that loves coding and tech righ here!**
 _This is **only** an initial test._ 
-To run this test, you need to have Python installed in your pc. You can download it from its official web: https://www.python.org/downloads/
+To run this test, you need to have Python installed in your PC. You can download it from its official web: https://www.python.org/downloads/
 
 
